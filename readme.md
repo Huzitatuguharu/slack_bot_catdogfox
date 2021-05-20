@@ -21,6 +21,8 @@ Zennで記事を書いてみた。
 
 https://zenn.dev/byanbyan/articles/20210520-slackgas
 
+サイトを作ってみた。
+https://slackbot-huzita.studio.site/
 
 ---
 
@@ -28,6 +30,7 @@ https://zenn.dev/byanbyan/articles/20210520-slackgas
 <br>
 癒されますように
 <br>
+
 <br>
 
 ### GAS
