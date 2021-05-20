@@ -62,13 +62,14 @@ https://paya02.com/it/google-apps/approval
 
 ### 配列の構造
 
-画像のURLのとりかたで詰まったらが、試行錯誤してたらできた。
+画像のURLのとりかたで詰まったが、試行錯誤してたらできた。
 なんとなく配列とオブジェクトが理解できた。
 
 
 ## 勉強になりました
 <br>
 Zenn参照
+
 [Slackに自動で猫の画像を送る](https://zenn.dev/byanbyan/articles/20210520-slackgas)
 
 ---
